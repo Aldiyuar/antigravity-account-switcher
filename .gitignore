@@ -1,0 +1,16 @@
+# Profile data & credentials (NEVER commit)
+acc*/
+userdata/
+_backup*/
+*.dpapi
+*.dpapi.bak
+*.tmp
+credential-user-scope
+active_profile.txt
+last_ag_version.txt
+*.log
+*.bak
+
+# Local generated shortcuts & launchers
+*.lnk
+AG_Acc*.bat
